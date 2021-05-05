@@ -1,0 +1,5 @@
+site_name: GraphgDB
+nav:
+    - About: about.md
+    - Setup: setup.md
+
