@@ -1,4 +1,4 @@
-site_name: GraphgDB
+site_name: vora-core
 nav:
     - About: about.md
     - Setup: setup.md

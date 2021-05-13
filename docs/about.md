@@ -1,4 +1,4 @@
-# About GraphgDB
+# About vora-core
 
 ## Introduction
 

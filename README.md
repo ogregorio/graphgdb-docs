@@ -1,6 +1,6 @@
-# graphgdb-docs
+# vora-core-docs
 
-Documentation about GraphgDB
+Documentation about vora-core
 
 ## Requirements
 To view this documentation, you need a few minimum requirements:
